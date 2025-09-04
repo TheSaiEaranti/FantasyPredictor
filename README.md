@@ -30,5 +30,5 @@ The goal: **Can we use historical data to accurately predict wins, draws, or los
 ## 🛠️ Installation & Usage  
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/TheSaiEaranti/predictions.git
-   cd predictions
+   git clone https://github.com/TheSaiEaranti/FantasyPredictor.git
+   cd FantasyPredictor
